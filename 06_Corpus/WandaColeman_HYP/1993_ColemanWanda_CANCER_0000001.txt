@@ -1,0 +1,2 @@
+auditory_communication abstraction utterance speaking communication
+attribute abstraction quality

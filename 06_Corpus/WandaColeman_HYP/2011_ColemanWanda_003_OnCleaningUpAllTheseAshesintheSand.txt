@@ -1,0 +1,7 @@
+
+
+
+
+
+standing status abstraction attribute state honor
+physical_entity living_thing parent whole object genitor relative person progenitor causal_agent ancestor organism

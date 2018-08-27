@@ -1,0 +1,8 @@
+physical_entity substance food sweet nutriment matter dainty
+physical_entity object whole fabric artifact
+physical_entity substance alcohol liquid food ale fluid abstraction matter beer beverage relation drug agent brew causal_agent part drug_of_abuse
+physical_entity woman living_thing whole object person adult female causal_agent organism
+
+physical_entity preserver living_thing whole object person causal_agent defender organism
+appellation abstraction name title language_unit part relation
+physical_entity substance soil material abstraction matter part relation earth

@@ -1,0 +1,6 @@
+
+
+
+
+excavation physical_entity object whole artifact
+physical_entity living_thing organism object animal whole

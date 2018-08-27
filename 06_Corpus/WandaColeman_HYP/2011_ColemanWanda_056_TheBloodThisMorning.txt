@@ -1,0 +1,3 @@
+physical_entity plant shrub living_thing whole object woody_plant vascular_plant organism
+physical_entity plant shrub living_thing whole object woody_plant vascular_plant organism
+abstraction calendar_month measure time_period fundamental_quantity Gregorian_calendar_month

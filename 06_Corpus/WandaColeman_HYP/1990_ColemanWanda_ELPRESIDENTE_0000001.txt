@@ -1,0 +1,3 @@
+
+cognition abstraction psychological_feature
+possession abstraction gift relation transferred_property aid acquisition

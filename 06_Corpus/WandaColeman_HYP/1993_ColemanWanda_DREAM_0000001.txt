@@ -1,0 +1,3 @@
+abstraction color attribute visual_property property chromatic_color
+physical_entity commodity covering dress object artifact consumer_goods whole woman's_clothing clothing
+

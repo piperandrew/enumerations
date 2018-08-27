@@ -1,0 +1,3 @@
+physical_entity living_thing whole object person causal_agent organism
+physical_entity woman living_thing whole object person adult female causal_agent organism
+attribute abstraction quality asset advantage

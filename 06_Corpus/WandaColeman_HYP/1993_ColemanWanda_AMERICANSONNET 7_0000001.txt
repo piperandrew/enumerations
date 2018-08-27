@@ -1,0 +1,2 @@
+physical_entity plot object region geographical_area location tract
+language_unit part relation abstraction

@@ -1,0 +1,4 @@
+
+physical_entity center area region object seat location
+time_period fundamental_quantity time_off abstraction measure
+tennis_stroke abstraction return maneuver psychological_feature motion stroke act action event change

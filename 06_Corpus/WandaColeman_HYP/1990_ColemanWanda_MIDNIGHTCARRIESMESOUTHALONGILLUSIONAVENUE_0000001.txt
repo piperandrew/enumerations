@@ -1,0 +1,2 @@
+physical_entity district region object city_district location quarter
+physical_entity organ body_part thing part sense_organ

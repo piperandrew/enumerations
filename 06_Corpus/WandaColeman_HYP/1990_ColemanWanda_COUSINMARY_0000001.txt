@@ -1,0 +1,3 @@
+
+abstraction color attribute visual_property property chromatic_color
+time_period fundamental_quantity abstraction time_of_life measure

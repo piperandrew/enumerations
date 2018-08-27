@@ -1,0 +1,3 @@
+physical_entity substance matter food nutriment course
+
+standing status abstraction attribute state honor

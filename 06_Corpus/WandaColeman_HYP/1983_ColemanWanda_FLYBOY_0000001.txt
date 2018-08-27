@@ -1,0 +1,6 @@
+physical_entity living_thing whole object person unpleasant_person causal_agent organism unwelcome_person
+
+physical_entity living_thing fascist whole object conservative person adult causal_agent rightist organism
+
+tennis_stroke abstraction return maneuver psychological_feature motion stroke act action event change
+physical_entity object

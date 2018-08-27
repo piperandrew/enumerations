@@ -1,0 +1,2 @@
+physical_entity atmospheric_phenomenon phenomenon process good_weather weather calmness natural_phenomenon physical_phenomenon
+tennis_stroke abstraction return maneuver psychological_feature motion stroke act action event change

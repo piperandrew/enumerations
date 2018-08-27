@@ -1,0 +1,3 @@
+being attribute state abstraction
+emotion attribute state feeling abstraction
+manner_of_speaking expressive_style abstraction prosody communication

@@ -1,0 +1,1 @@
+physical_entity shot weapon object artifact instrument projectile device whole instrumentality

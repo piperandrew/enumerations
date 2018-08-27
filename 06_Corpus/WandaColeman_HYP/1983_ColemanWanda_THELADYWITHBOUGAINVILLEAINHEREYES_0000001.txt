@@ -1,0 +1,1 @@
+physical_entity substance mineral crystal solid material abstraction matter part relation transparent_gem gem

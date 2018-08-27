@@ -1,0 +1,80 @@
+' t E l D @ ' dZ U - r i ' j O r ' n EI m .
+' E - m r= - i ' A r . ' h EI - h r= s t .
+s - ' t EI t ' j O r ' E - dZ @ - k EI - S @ n , ' d A - k t r= , ' I f ' j u ' w I l .
+' d u ' E n ' t i ' b i ' m A - d @ s t @ - ' b aU t ' I t ; ' dZ V s t ' t E l @ - ' b aU t ' I t .
+' h AI s - ' k u l S @ - ' k A - g @U ' j u - n I v . ' V v ' I - l @ - n OI ' E m . ' A . , ' T i - s @ s ' A n ' r E s - p r= - EI - S @ n ' p i & ' E s S @ - ' k A - g @U ' j I r z ' h A s - p I - t @ l ' t r EI - n I N ; ' { t ' r V S ' A n A - k j @ - ' p EI - S @ - n @ l d I - ' z i z d r= - ' E k - t r= ' V v ' k l I - n I k ½ ' j I r z .
+' p i ' EI tS . ' d i . S @ - ' k A - g @U @U - ' h AI - @U ' d E p t . ' V v ' h E l T , ' j I r z ' { z k @ n - ' s V l - t @ n t ' I n A - k j @ - ' p EI - S @ - n @ l d I - ' z i - z @ z .
+' h AI - g i - n I s t , ' j u . ' E s .
+' p V b - l I k ' h E l T ' s r= - v @ s ' { n d ' b j U - r @U ' V v ' m AI n z ' { n d ' b j U - r @U ' V v s - ' t { n - d r= d z ' d EI n - dZ r= b I - ' g I n z ' { t ' p r= ' s E n t ' h I r ' w A z ' p j U r ' d EI n - dZ r= ' d E p t . ' V v ' m AI n z ' k EI m ' I n , ' w A z ' k E p t @ - ' w EI .
+' m AI - n r= z f T @ - ' s I s , ' f I b - r OI d f T @ - ' s I s , ' g r AI n - d r= z ' r A t , ' p A - t r= z ' r A t , ' w V - t E - v r= ' I t ' j u z d ' t u ' b i ' k O l d , ' D i z ' m E n ' d I d ' n A t ' n i d ' t u ' d AI .
+' I z ' s I - l i - k @U - s I s ' { n A - k j @ - ' p EI - S @ - n @ l d I - ' z i z ?
+' I t ' I z .
+' d I d ' E - n i - w V n ' S @U ' j u D @ ' l V N z ' V v ' s i - s @ l ' dZ @U n z ?
+' j E s , ' s r= .
+' h u ' w A z ' D { t ?
+' I t ' w A z ' d A - k t r= ' h A - r l I s .
+" ' w i ' t O k t ' t u ' d A - k t r= ' E l . ' A r . ' h A - r l I s , ' h u ' h { d ' h { n - d @ l d ' m E - n i ' V v D @ ' k EI - s @ z , ' m O r ' D { n ' E - n i ' V - D r= ' d A - k t r= ' D E r .
+' { t ' f r= s t ' d A - k t r= ' h A - r l I s ' d I d ' n A t ' l AI k ' t u ' t O k @ - ' b aU t D @ ' m { - t r= .
+' h i ' s E d ' h i ' h { d ' b I n s @ - ' b dZ E k - t I d ' t u ' s @U ' m V tS p @ - ' b l I - s @ - t i .
+' I t @ - ' p I r d ' D { t D @ ' d A - k t r= ' T O t ' h i ' h { d ' b I n I n - ' v A l v d ' I n ' t u ' m E - n i ' V v D @ ' k O r t ' k EI - s @ z ; ' b V t ' f AI - n @ - l i ' h i ' @U - p @ n d ' V p ' { n d ' t @U l d ' V s @ - ' b aU t D @ ' m { - t r= . "
+' d I d ' h i ' I m - p r E s ' j u ' { z ' w V n ' h u ' T O t ' D I s ' w A z @ ' v E - r i ' s I - r i - @ s ' T I N ' I n ' D { t ' s E k - S @ n ' V v D @ ' k V n - t r i ?
+" ' j E s , ' h i ' d I d .
+' AI ' w U d ' s EI ' D { t ' d A - k t r= ' h A - r l I s ' h { z ' p r A - b @ - b l i b I - ' k V m ' v E - r i ' s E l f ' k A n - S @ s @ - ' b aU t ' D I s ' m { - t r= .
+' AI ' k { n ' n A t ' s EI ' D { t ' h i ' h { z r i - ' t r { k - t @ d ' w V t ' h i ' t @U l d ' m i , ' b V t ' p A - s @ - b l i ' h i ' h { d ' b I n ' T r V s t I n - ' t u D @ ' l AI - m l AI t ' s @U ' m V tS ' D { t ' h i ' I z ' m O r k @ n - ' s r= - v @ - t I v ' n aU ' D { n ' w E n D @ ' m { - t r= ' w A z ' s I m - p l i ' s V m - T I N ' V v ' l @U - k @ l ' I n - t r @ s t . "
+' d I r ' s r= : ' d u ' t u ' I l - n @ s ' V v ' m AI ' w AI f ' { n d ' r= - dZ @ n t p r @ - ' f E - S @ - n @ l ' d u - t i z , ' AI ' { m @ - ' n EI - b @ l ' t u @ - ' p I r ' { z ' p r= ' j O r ' t E - l @ - g r { m .
+' s I - tS u - EI - S @ n I g - ' z { - dZ r= - EI - t @ d .
+' h I r ' A r ' f { k t s : ' w i I g - ' z { - m @ n d . ' d E d . ' h { d ' s V m ' l V N ' d { - m @ dZ . ' h { v ' d AI d ' s I n s , ' m EI - k I N ' d E T s .
+' p r E s ' s E z ' d E d , @ - ' f E k - t @ d ' { n d ' d u m d .
+' AI ' { m ' { t @ ' l O s ' t u ' n @U ' w E r ' D @U z ' f I g - j r= z w r= @ - ' b t EI n d .
+' { t ' D I s ' t AI m , ' @U - n l i @ ' f j u ' k EI - s @ z ' h I r , ' { n d ' D i z ' @U - n l i ' m A - d r= - @ - t l i @ - ' f E k - t @ d .
+' l { s t ' d E T @ - ' k r= d n @U - ' v E m - b r= .
+' I t ' h { z ' b I n ' s E d ' D { t ' n V n ' V v D @ ' m E n ' n u ' V v D @ ' h { - z r= d k @ - ' n E k - t @ d ' w I D D @ ' w r= k .
+' D I s ' I z ' n A t k r= - ' E k t .
+' S O r - t l i ' { f - t r= D @ ' w r= k b I - ' g { n ' m E - n i ' V v ' D i z ' w r= - k r= z ' k EI m ' t u ' m i k @ m - ' p l EI - n I N ' V v ' tS E s t k @ n - ' d I - S @ n z ' { n d ' AI ' w O r n d ' m E - n i ' V v ' D E m ' V v D @ ' d V s t ' h { - z r= d ' { n d { d - ' v AI z d ' D E m ' D { t k @ n - ' t I n - j u d ' w r= k ' V n - d r= ' D i z k @ n - ' d I - S @ n z ' w U d r I - ' z V l t ' I n ' s I - r i - @ s ' l V N d I - ' z i z .
+' d I s - r I - g A r - d I N ' D I s ' w O - r n I N ' m E - n i ' V v D @ ' m E n k @ n - ' t I n ' U d ' { t ' D I s ' w r= k ' { n d ' l EI - t r= ' b r O t ' s u t @ - ' g E n s t ' D E r E m - ' p l OI - r= ' f O r ' d { - m @ - dZ @ z .
+' w AI l ' AI ' { m ' S U r ' D { t ' m E - n i ' V v ' D i z ' s u t s w r= ' b EI s t ' A n ' m E - r @ - t O - r i - @ s ' g r aU n d z , ' AI ' { m ' O l - s @U k @ n - ' v I n s t ' D { t ' m E - n i ' V - D r= z ' t U k { d - ' v { n - t I dZ ' V v ' D I s ' s I - tS u - EI - S @ n ' { n d ' m EI d ' aU t ' V v ' I t ' n V - T I N ' l E s ' D { n @ ' r { - k I t .
+' I n ' D I s ' l E - t r= ' AI ' h { v I n - ' d E - v r= d ' t u ' g I v ' j u D @ ' f { k t s ' w I tS ' k EI m ' V n - d r= ' m AI ' A - b z r= - v EI - S @ n .
+' I f ' AI ' k { n s @ - ' p l AI ' f r= - D r= ' I n - f r= - m EI - S @ n .
+' m I s - t r= ' m A r - k @ n - t @U - n i - @U .
+@ ' m { n ' m EI ' b i I g - ' z { - m @ n d @ ' j I r ' { f - t r= ' h i ' h { z ' w r= k t ' I n @ ' t V - n @ l ' { n d ' n A t ' S @U @ ' s AI n ' V v ' s I - l i - k @U - s I s , ' { n d ' j E t D @ ' s I - l i - k @U - s I s ' m EI d I - ' v E - l @ p ' l EI - t r= ; ' I z ' n A t ' D { t ' t r u ?
+' j E s , ' I t ' m EI d I - ' v E - l @ p ' { z ' m E - n i ' { z ' t E n ' j I r z ' { f - t r= .
+' m I s - t r= ' m A r - k @ n - t @U - n i - @U .
+' i - v @ n ' b EI - s I N D @ s - ' t EI - t m @ n t ' A n D @ ' f I g - j r= z , D @ ' d A - k t r= z ' k l EI m ' D { t ' D I s ' I z @ ' r { - k I t ' I z ' n A t ' dZ V s - t @ - f AI d ?
+' n @U ; ' I t ' w U d ' n A t ' s i m ' t u ' b i ' dZ V s - t @ - f AI d .
+' m I s - t r= ' m A r - k @ n - t @U - n i - @U .
+' AI ' S U d ' l AI k ' t u ' p OI n t ' aU t ' D { t ' d A - k t r= ' h A - r l I s ' k A n - t r @ - d I k t s ' h I z " I g - ' z { - dZ r= - EI - S @ n " ' w E n ' h i ' v A - l @ n - t I r z D @ ' f A - l @U - I N : " ' AI ' w O r n d ' m E - n i . "
+( ' m I s - t r= ' p EI - t @ n .
+' AI ' d u ' n A t ' n @U .
+' n @U - b A - d i ' n u D @ ' d EI n - dZ r= r= - ' aU n d ' D E r . )
+' d A - k t r= ' g @U l - d w O - t r= .
+' f r= s t ' A r D @ ' f { k - t r= z I n - ' v A l - v I N D @ ' I n - d @ - v I - dZ @ - w @ l .
+' V n - d r= D @ ' h E - d I N ' b i , I k - ' s t r= - n @ l ' k A - z @ z .
+' s V m ' V v D @ ' f { k - t r= z ' w I tS ' AI ' h { v ' I n ' m AI n d ' D @U z ' A r D @ ' f { k t s @ - ' p A n D @ ' b l { k - b O r d , D @ ' I n - f l u - @ n - s I N ' { n d k @ n - ' t r @U - l I N ' f { k - t r= z .
+' m I s - t r= ' m A r - k @ n - t @U - n i - @U .
+' D @U z ' f { k - t r= z ' w U d ' b r I N @ - ' b aU t @ - ' k j u t ' s i - l i ' k @U - s I s ?
+' d A - k t r= ' g @U l - d w O - t r= .
+' AI ' h @U p ' j u ' A r ' n A t p r @ - ' v @U k t ' w E n ' AI ' s EI " ' m AI t . "
+' m E - d @ - s @ n ' h { z ' n @U ' h V n - d r @ d p r= - ' s E n t .
+' w i s - ' p i k ' V v ' p A - s @ - b I - l @ - t i z , ' h { v @ - ' p I n - j @ n z .
+' m I s - t r= ' g r I s - w @U l d .
+' d A - k t r= z ' t E s - t @ - f AI ' { n - s r= - I N " ' j E s " ' { n d " ' n @U . "
+' d u ' E n ' t i ' D EI ?
+' d A - k t r= ' g @U l - d w O - t r= .
+' n A t ' b AI D @ ' tS OI s ' V v D @ ' d A - k t r= .
+' m I s - t r= ' g r I s - w @U l d .
+' b V t ' D { t ' I z ' j u - Z @ - w @ l , ' I z ' E n ' t i ' I t ?
+' d A - k t r= ' g @U l - d w O - t r= .
+' D EI ' d u ' n A t ' l AI k ' t u ' d u ' D { t .
+@ ' m { n ' w I D @ ' s AI - @ n - t I - f I k ' p OI n t ' V v ' v j u @ n - ' f O r - tS @ - n @ - t l i ' D E r ' A r ' d A - k t r= z w I - ' T aU t ' D { t ' AI ' d u ' n A t ' m i n ' t u ' s EI ' O l ' d A - k t r= z ' A r ' EI n - dZ @ l z ' b V t ' m @U s t ' d A - k t r= z @ - ' v OI d d A - ' g m { - t I k s - ' t EI - t m @ n t s . @ - ' v OI d @ - ' s I d - w @ - s l i " ' O - l w EI z , " " ' n E - v r= . "
+' m I s - t r= ' g r I s - w @U l d .
+' b E s t ' d A - k t r= ' AI ' E - v r= ' n u ' s E d " ' n @U " ' { n d " ' j E s . "
+' d A - k t r= ' g @U l - d w O - t r= .
+' D E r ' A r ' d I - f r= - @ n t @ - ' p I n - j @ n z ' A n ' D { t , ' t u .
+' w i w r= ' t O - k I N @ - ' b aU t @ - ' k j u t ' s I - l i - k @U - s I s .
+D @ ' m { n ' I n D @ ' w AI t ' k @U t ' I z D @ ' m { n ' A n D @ ' h I l , D @ ' m { n ' w I D D @ ' k l i n ' h { n d z ' I z D @ ' m { n ' w I D D @ ' d r I l , D @ ' m { n ' h u ' { n - s r= z " ' j E s " ' l AI z s - ' t I l .
+' d I d ' j u ' m EI k ' { n I g - ' z { - m @ - n EI - S @ n ' V v ' D @U z ' s E t s ' V v ' l V N z ?
+' AI ' d I d .
+' AI ' w I S ' j u ' w U d ' t E l D @ ' dZ U - r i ' w E - D r= ' O r ' n A t ' D @U z ' l V N z w r= ' s I - l I - k A - t I k .
+' w i ' A - b dZ E k t .
+@ - ' b dZ E k - S @ n ' @U - v r= - r u l d .
+' D EI w r= .

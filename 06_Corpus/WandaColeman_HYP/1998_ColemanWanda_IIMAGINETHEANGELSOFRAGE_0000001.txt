@@ -1,0 +1,2 @@
+medium communication act abstraction psychological_feature event
+language_unit part relation abstraction

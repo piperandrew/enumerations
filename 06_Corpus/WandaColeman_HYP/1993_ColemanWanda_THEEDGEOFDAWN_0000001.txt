@@ -1,0 +1,2 @@
+physical_entity living_thing organism object animal whole
+time_period fundamental_quantity abstraction time_of_life measure

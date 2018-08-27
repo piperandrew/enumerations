@@ -1,0 +1,1 @@
+physical_entity plant living_thing citrus whole object tree angiospermous_tree woody_plant fruit_tree vascular_plant organism

@@ -1,0 +1,4 @@
+
+physical_entity body_part thing part area
+quality abstraction appearance attribute
+unit_of_measurement measure area_unit abstraction definite_quantity

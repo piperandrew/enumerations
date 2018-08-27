@@ -1,0 +1,6 @@
+
+abstraction act request questioning psychological_feature speech_act event
+
+
+
+physical_entity object musical_instrument stringed_instrument artifact device whole instrumentality

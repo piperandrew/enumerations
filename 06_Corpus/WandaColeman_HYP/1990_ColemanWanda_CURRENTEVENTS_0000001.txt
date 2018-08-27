@@ -1,0 +1,2 @@
+
+physical_entity living_thing organism object animal whole

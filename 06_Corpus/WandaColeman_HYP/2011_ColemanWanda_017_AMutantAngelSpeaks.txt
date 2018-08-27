@@ -1,0 +1,4 @@
+psychological_feature event abstraction act
+
+physical_entity facility military_post object artifact military_installation whole
+psychological_feature event abstraction act

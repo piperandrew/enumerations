@@ -1,0 +1,2 @@
+perception process cognition sensation basic_cognitive_process abstraction psychological_feature smell
+psychological_feature event abstraction act

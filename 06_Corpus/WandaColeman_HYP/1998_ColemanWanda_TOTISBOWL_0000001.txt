@@ -1,0 +1,9 @@
+kinswoman physical_entity living_thing whole object relative person female_sibling causal_agent organism
+
+
+physical_entity thoroughfare object artifact street way whole road
+
+
+
+physical_entity living_thing whole object person adult causal_agent male organism man
+appellation abstraction name title language_unit part relation

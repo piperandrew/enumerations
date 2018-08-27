@@ -1,0 +1,14 @@
+' l e: - R 6 .
+b @ - ' d E N k ' , ' ? o: ' k I n t ! v o: - ' h e: 6 ' z I n t ' d i: - z @ ' g a: - b @ n ?
+' d u: ' k a n s t ' n I C ts ' f O n ' d i: 6 ' z E l - b 6 ' h a: - b @ n .
+' k I n t .
+' ? aI ! ' ? a - l @ s ' h a: p ' ' ? I C ' f O m ' p a - p a: .
+' l e: - R 6 .
+' ? U n t ' d E 6 , v o: - ' h e: 6 ' h a t s ' d E 6 ?
+' k I n t .
+' f O m ' g R o: s - p a - p a: .
+' l e: - R 6 .
+' n I C t ' d O C !
+v o: - ' h e: 6 ' h a t s ' d E n ' d E 6 ' g R o: s - p a - p a: b @ - ' k O - m @ n ?
+' k I n t .
+' d E 6 ' h a t s g @ - ' n O - m @ n .

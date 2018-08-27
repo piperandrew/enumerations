@@ -1,0 +1,2 @@
+physical_entity living_thing person whole object achiever causal_agent organism
+physical_entity plot object region geographical_area location tract

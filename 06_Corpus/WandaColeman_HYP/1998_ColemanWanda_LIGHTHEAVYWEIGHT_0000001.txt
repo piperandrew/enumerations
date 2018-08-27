@@ -1,0 +1,4 @@
+physical_entity living_thing whole object person African causal_agent organism
+kinswoman physical_entity living_thing whole object relative person causal_agent organism
+
+physical_entity object living_thing parent whole mother genitor relative person progenitor causal_agent ancestor organism

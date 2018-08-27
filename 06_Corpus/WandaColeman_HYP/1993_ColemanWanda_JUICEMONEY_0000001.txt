@@ -1,0 +1,3 @@
+physical_entity living_thing person whole object bad_person wrongdoer causal_agent criminal organism principal
+
+time_period fundamental_quantity abstraction time_of_life measure

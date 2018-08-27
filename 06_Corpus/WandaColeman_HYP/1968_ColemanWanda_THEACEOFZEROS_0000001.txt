@@ -1,0 +1,3 @@
+time_period fundamental_quantity abstraction measure
+
+facial_expression visual_communication abstraction gesture communication

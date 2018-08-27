@@ -1,0 +1,3 @@
+time_period fundamental_quantity abstraction time_of_life measure
+appellation abstraction name title language_unit part relation
+concept cognition idea abstraction content part psychological_feature

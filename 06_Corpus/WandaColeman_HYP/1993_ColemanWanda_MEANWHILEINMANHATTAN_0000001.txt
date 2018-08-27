@@ -1,0 +1,13 @@
+physical_entity object whole artifact facility
+physical_entity domain object region location
+physical_entity object region geographical_area location tract
+
+
+physical_entity student living_thing organism object person collegian whole enrollee causal_agent undergraduate
+physical_entity cut meat matter food cut_of_pork solid
+social_group gathering abstraction group community
+indefinite_quantity small_indefinite_quantity abstraction measure
+
+
+unit_of_measurement measure definite_quantity abstraction linear_unit
+physical_entity substance material abstraction matter part relation waste

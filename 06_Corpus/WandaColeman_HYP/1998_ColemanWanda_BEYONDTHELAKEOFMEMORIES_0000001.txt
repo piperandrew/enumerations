@@ -1,0 +1,2 @@
+physical_entity solid plant_organ plant_part food object natural_object reproductive_structure produce fruit edible_fruit whole pome matter
+physical_entity plant living_thing whole object tree angiospermous_tree woody_plant fruit_tree vascular_plant organism

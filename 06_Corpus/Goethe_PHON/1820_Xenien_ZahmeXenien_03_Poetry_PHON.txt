@@ -1,0 +1,52 @@
+" ' v i: ' ? I s t ' d i: 6 s ' d O C ' z o: ' b a l - d @ ' ts u: 6 ? 6 ' ' ? U n t ' S m a x g @ - ' d i: n ? "
+' b l i: p ' ' d E 6 ' v O l f ' ? I m ' v a l - d @ , ' z o: ' v Y 6 t ' ' ? e: 6 ' n I C t b @ - ' S R i: - @ n .
+[ ' z aI - t @ ]
+' d i: ' f R OY n - d @ .
+' ? o: ! ' l a s ' d i: ' j a - m 6 ' k l a: - g @ n : ' d a: ' n a: x ' d e: n ' S l I m s - t @ n ' t a: - g @ n ' m E: n ' v i: - d 6 ' f R o: g @ - ' n i: s t .
+' h i: - o: p .
+' ? i: 6 ' v O - l @ t ' m aI - n 6 S - ' p O - t @ n : ' d E n , ' ? I s t ' d E 6 ' f I S g @ - ' z O - t @ n , ' v a s ' h I l f t ' ? E s ' d a s ' d i: ' k v E - l @ ' f l i: s t ?
+' v a s ' v I l s t ' d u: ' m I t ' d e: n ' ? a l - t @ n ' t R 2: - pf @ n , ' ? E s ' z I n t ' k n 9 - pf @ ' d i: ' n I C t ' m e: 6 ' k n 2: - pf @ n .
+' l a s ' ? I m ' ? I - R 6 - t U m ' z i: g @ - ' b E - t @ t , ' z u: - x @ ' v aI - s l I C ' ts u: ' ? E n - t f l i: n , ' b I s t ' ? I n s ' f R aI - @ ' d u: g @ - ' R E - t @ t , ' n i: - m a n t ' z O l s t ' d u: ' n a: x ' d i: 6 ' ts i: n .
+' ? y: - b 6 ' ? a - l @ s ' v a s b @ - ' g e: k - n @ t ' f R o: , ' m I t ' R aI - n @ m ' j u: - g @ n t - z I n , ' z aI b @ - ' l e: 6 t , ' ? E s ' z aI g @ - ' z e: - g n @ t !
+' ? U n t ' d a s ' b l aI - p @ ' d i: 6 g @ - ' v I n .
+[ ' z aI - t @ ]
+' ? I n s ' z I - C 6 - R @ ' v I l s t ' d u: ' d I C ' b E - t @ n !
+' ? I C ' l i: - b @ ' m i: 6 ' ? I - n 6 - R @ n ' S t R aI t : ' d E n ' v E n ' v i: 6 ' d i: ' ts v aI - f @ l ' n I C t ' h E - t @ n , ' v o: ' v E: - R @ ' d E n ' f R o: - @ g @ - ' v I s - h aI t ?
+" ' v a s ' v I l s t ' d u: ' d a s ' f O n ' d aI - n 6 g @ - ' z I - n U N ' m E: n ' d i: 6 ' n a: x ' ? I n s ' ? e: - v I - g @ ' z E n - d @ ? "
+' ? e: 6 g @ - ' h 2: 6 - t @ ' ts u: ' k aI - n 6 ' ? I - n U N , ' b l i: p ' l i: p - h a: - b 6 ' b I s ' ? a n s ' ? E n - d @ .
+" ' t R i: p s t ' d u: ' d O C ' b a l t ' d i: s ' b a l t ' d a s !
+' v a: 6 ' ? E s ' ? E 6 n s - t l I C , ' v a: 6 ' ? E s ' S p a: s ? "
+' d a s ' ? I C ' R e: - t l I C ' m I C b @ - ' f l I - s @ n , ' v a s ' ? aU x ' v E 6 - d @ , ' g O t ' m a: k s ' v I - s @ n .
+" ' d i: 6 v a - ' R U m ' d O C f E 6 - ' l i: 6 t ' g l aI C ' ? a - l @ s ' v E 6 t ' ? U n t g @ - ' v I C t ? "
+' d a s ' t U n ' ? I n - t R E - s I 6 t , ' d a s g @ - ' t h a: - n @ ' n I C t .
+[ ' z aI - t @ ]
+" ' z o: ' S t I l ' ? U n t ' z o: ' z I - n I C !
+' ? E s ' f e: l t ' d i: 6 ' v a s , g @ - ' S t e: ' ? E s ' f R aI . "
+ts u: - ' f R i: - d @ n ' b I n ' ? I C , ' ? a - b 6 ' m i: 6 ' ? I s t ' n I C t ' v o: l d a: - ' b aI .
+' v aI s t ' d u: ' v o: - R I n ' d E 6 ' S p a: s ' d E s ' l e: - b @ n s ' l i: k t ?
+' z aI ' l U s - t I C !
+--- ' g e: t ' ? E s ' n I C t , ' z o: ' z aI f E 6 - ' g n y: k t .
+
+' v I 6 ' z I n t f i: - ' l aI C t ' ts u: ' ? a n - t I k g @ - ' v e: - z @ n , ' n u: n ' v O - l @ n ' v i: 6 ' ? E s m o: - ' d E 6 - n 6 ' l e: - z @ n .
+" ' z O n s t ' v a 6 s t ' d u: ' z o: ' v aI t ' f O m ' p R a: - l @ n ? E n t - ' f E R n t , ' v o: ' h a s t ' d u: ' d a s ' p R a: - l @ n ' z o: ' g R aU - z a: m g @ - ' l E 6 n t ? "
+' ? I m ' ? o: - R i: - E n t ' l E 6 n t ' ' ? I C ' d a s ' p R a: - l @ n .
+' d O x ' z aI t ' ? I C ts u: - ' R Y k ' b I n , ' ? I m ' v E s t - l I - C @ n ' l a n t , ' ts u: ' m aI - n 6 b @ - ' R u: - I - g U N ' f I n t ' ' ? I C ' ? U n t ' f a n t ' ts u: ' h U n - d 6 - t @ n ? o: - R i: - E n - ' t a: - l @ n .
+[ ' z aI - t @ ]
+' ? U n t ' v a s ' d i: ' m E n - S @ n ' m aI - n @ n ' d a s ' ? I s t ' m i: 6 ' aI - n 6 - l aI ; ' m 9 C - t @ ' m I C ' m i: 6 ' z E l p s t f E 6 - ' ? aI - n @ n , ? a - ' l aI n ' v i: 6 ' z I n t ' ts u: ' ts v aI ; ' ? U n t ' ? I m ' l e: - b @ n t ' ' g e: n ' t R aI - b @ n ' z I n t ' v i: 6 ' ? aI n ' h i: 6 ' ? U n t ' d O 6 t , ' d a s ' ? aI - n @ ' l i: p t ' ts u: ' b l aI - b @ n , ' d a s ' ? a n - d 6 - R @ ' m 9 C - t @ ' f O 6 t ; ' d O x ' ts u: ' d e: m ' z E l p s t ' f E 6 S - t E n - t n I s ' ? I s t ' ? aU x ' v o: l ' n O x ' ? aI n ' R a t : ' n a: x ' f R 2: - l I - C @ m ' ? E 6 - k @ n - t n I s ' ? E 6 - f O l - g @ ' R a - S @ ' T E t .
+' ? U n t ' v E n ' d i: ' T E t b I s - ' v aI - l @ n ' g a n ts ' ? E t - v a s ' ? a n - d 6 s ' b R I N t , ' z o: ' l a s t ' ? U n s ' d a s ? E 6 - ' aI - l @ n ' v a s ' ? U n - f E 6 - h O f t g @ - ' l I N t .
+[ ' z aI - t @ ]
+' v i: ' ? i: 6 ' d E N k t , ' ? o: - d 6 ' d E N - k @ n ' z O l t , ' g e: t ' m I C ' n I C ts ' ? a n ; ' v a s ' ? i: 6 ' g u: - t @ n , ' ? i: 6 ' b E s - t @ n ' v O l t , ' h a: p ' ' ? I C ' ts u m ' t e: - aI l g @ - ' D E n .
+' f i: l ' ? y: - b R I C ' b l aI p t ' ts u: ' t U n , ' m 2: - g @ ' n u: 6 ' k aI - n 6 ' l E - s I C ' R U n !
+--- ' v a s ' ? I C ' z a: k ' ' ? I s t b @ - k @ n - ' t n I s , ' ts u: ' m aI - n @ m ' ? U n t ' ? OY - R @ m ' f E 6 S - t E n - t n I s .
+' d i: ' v E l t ' v I 6 t ' t E: k - l I C ' b R aI - t 6 ' ? U n t ' g R 2: - s 6 , ' z o: ' m a x t s ' d E n ' ? aU x ' f O l - k O m n - ? e: 6 ' ? U n t ' b E - s 6 !
+' b E - s 6 ' z O l t ' ' ? E s ' h aI - s @ n ' ? U n t ' f O l - k O m n - ? e: 6 ; ' z o: ' z aI ' d E n ' j e: - d 6 ' ? aI n ' w I l - k O m n - ? e: 6 .
+' v i: ' d a s g @ - ' S t I R n , ' ? o: - n @ ' h a s t , ' ? a - b 6 ' ? o: - n @ ' R a s t , ' d R e: - @ ' z I C ' j e: - d 6 ' ? U m ' d i: ' aI - g n @ ' l a s t .
+[ ' z aI - t @ ]
+' ? I C ' b I n ' z o: ' g u: - t 6 ' d I - N @ , ' z o: ' h aI - t 6 ' ? U n t ' R aI n , ' ? U n t ' v E n ' ? I C ' ? aI - n @ n ' f e: - l 6 b @ - ' g I - N @ , ' k 2: n t s ' k aI - n 6 ' z aI n .
+' j a: ' d a s ' ? I s t ' d a s ' R E C - t @ ' g l aI s , ' d a s ' m a n ' n I C t ' v aI s ' v a s ' m a n ' d E N k t , ' v E n ' m a n ' d E N k t ; ' ? a - l @ s ' ? I s t ' ? a l s ' v i: g @ - S @ N k t .
+[ ' z aI - t @ ]
+" v a - ' R U m ' m a n ' z o: ' m a n - C @ s ' l aI - d @ t ' ? U n t ' ts v a: 6 ' ? o: - n @ ' s Y n - d @ ?
+--- ' n i: - m a n t ' g I p t ' ? U n s g @ - ' h 2: 6 . "
+' v i: ' d a s ' t E - t I - g @ ' S h aI - d @ t , ' ? a - l @ s ' ? I s t ' pf R Y n - d @ ' ? U n t ' ? E s ' l e: p t ' n I C ts ' m e: 6 .
+" ' m a n - C @ s ' k 9 - n @ n ' v i: 6 ' n I C t f E 6 - ' S t e: n . "
+' l e: p t ' n u: 6 ' f O 6 t , ' ? E s ' v I 6 t ' S o: n ' g e: n .

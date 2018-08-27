@@ -1,0 +1,1 @@
+physical_entity object living_thing parent whole mother genitor relative person progenitor causal_agent ancestor organism

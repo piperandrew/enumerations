@@ -1,0 +1,1 @@
+physical_entity oil lipid matter material molecule organic_compound abstraction chemical thing substance relation compound part unit macromolecule

@@ -1,0 +1,2 @@
+process physical_entity organic_process
+physical_entity region object location

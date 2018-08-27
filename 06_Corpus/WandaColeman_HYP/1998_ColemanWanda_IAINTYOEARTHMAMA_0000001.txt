@@ -1,0 +1,4 @@
+physical_entity laborer living_thing whole workman object worker person employee causal_agent organism
+physical_entity thing object whole artifact
+
+physical_entity laborer living_thing whole workman object worker person employee causal_agent organism

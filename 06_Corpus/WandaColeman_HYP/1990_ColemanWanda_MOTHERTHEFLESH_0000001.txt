@@ -1,0 +1,5 @@
+attribute property abstraction
+relation language_unit part word abstraction
+
+
+physical_entity living_thing organism object animal whole

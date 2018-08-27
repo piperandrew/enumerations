@@ -1,0 +1,1 @@
+physical_entity arenaceous_rock sedimentary_rock material sandstone abstraction matter substance relation rock part

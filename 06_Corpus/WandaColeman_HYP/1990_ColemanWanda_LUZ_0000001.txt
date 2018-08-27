@@ -1,0 +1,4 @@
+
+
+excavation physical_entity object whole artifact
+physical_entity region object location

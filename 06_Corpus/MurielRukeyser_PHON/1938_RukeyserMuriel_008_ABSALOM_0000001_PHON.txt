@@ -1,0 +1,43 @@
+' AI ' f r= s t d I s - ' k V - v r= d ' w V t ' w A z ' k I - l I N ' D i z ' m E n .
+' AI ' h { d ' T r i ' s V n z ' h u ' w r= k t ' w I D ' D E r ' f A - D r= ' I n D @ ' t V - n @ l : ' s i - s @ l , ' EI dZ d , ' @U - @ n , ' EI dZ d , ' S r= - l i , ' EI dZ d .
+' D EI ' j u z d ' t u ' w r= k ' I n @ ' k @U l ' m AI n , ' n A t s - ' t E - d i ' w r= k ' f O r D @ ' m AI n z w r= ' n A t ' g @U - I N ' m V tS ' V v D @ ' t AI m .
+@ ' p aU - r= ' k V m - p @ - n i . ' f O - r m @ n ' l r= n d ' D { t ' w i ' m EI d ' h @U m ' b r u , ' h i ' f O r m d @ ' h { - b @ t ' V v ' d r A - p I N ' I n ' i - v n I N z ' t u ' d r I N k , p r= - ' s w EI - d I N D @ ' b OI z ' { n d ' m AI ' h V z - b @ n d ' g I v ' V p ' D E r ' dZ A b z ' { n d ' t EI k ' D I s ' V - D r= ' w r= k .
+' I t ' w U d ' p EI ' D E m ' b E - t r= .
+' S r= - l i ' w A z ' m AI ' j V N - g @ s t ' s V n ; D @ ' b OI .
+' h i ' w E n t I n - ' t u D @ ' t V - n @ l .
+' m AI ' h A r t ' m AI ' m V - D r= ' m AI ' h A r t ' m AI ' m V - D r= ' m AI ' h A r t ' m AI ' k V - m I N I n - ' t u ' b i - I N .
+' m AI ' h V z - b @ n d ' I z ' n A t ' EI - b @ l ' t u ' w r= k .
+' h i ' h { z ' I t , @ - ' k O r - d I N ' t u D @ ' d A - k t r= .
+' w i ' h { v ' b I n ' h { - v I N @ ' v E - r i ' h A r d ' t AI m ' m EI - k I N @ ' l I - v I N ' s I n s ' D I s ' t r V - b @ l ' k EI m ' t u ' V s .
+' AI ' s O D @ ' d V s t ' I n D @ ' b A - t @ m ' V v D @ ' t V b .
+D @ ' b OI ' w r= k t ' D E r @ - ' b aU t EI - ' t i n ' m V n T s , ' k EI m ' h @U m ' w V n ' i - v n I N ' w I D @ ' S O r - t n @ s ' V v ' b r E T .
+' h i ' s E d , " ' m V - D r= , ' AI ' k { n ' n A t ' g E t ' m AI ' b r E T . "
+' S r= - l i ' w A z ' s I k @ - ' b aU t ' T r i ' m V n T s .
+' AI ' w U d ' k { - r i ' h I m ' f r V m ' h I z ' b E d ' t u D @ ' t EI - b @ l , ' f r V m ' h I z ' b E d ' t u D @ ' p O r tS , ' I n ' m AI ' A r m z .
+' m AI ' h A r t ' I z ' m AI n ' I n D @ ' p l EI s ' V v ' h A r t s , ' D EI ' g EI v ' m i ' b { k ' m AI ' h A r t , ' I t ' l AI z ' I n ' m i .
+' w E n ' D EI ' t U k ' s I k , ' r AI t ' { t D @ s - ' t A r t , ' AI ' s O @ ' d A - k t r= .
+' AI ' t r AI d ' t u ' g E t ' d A - k t r= ' h A - r l I s ' t u ' E k s ' r EI D @ ' b OI z .
+' h i ' w A z D @ ' @U - n l i ' m { n ' AI ' h { d ' E - n i ' k A n - f @ - d @ n s ' I n , D @ ' k V m - p @ - n i ' d A - k t r= ' I n D @ ' k A - p r= z ' m AI n , ' b V t ' h i ' w U d ' n A t ' s i ' S r= - l i .
+' h i ' d I d ' n A t ' n @U ' w E r ' h I z ' m V - n i ' w A z ' k V - m I N ' f r V m .
+' AI ' p r A - m @ s t ' h I m ' h { f ' I f ' h i d ' w r= k ' t u ' g E t ' k A m - p @ n - s EI - S @ n , ' b V t ' i - v @ n ' D E n ' h i ' w U d ' n A t ' d u ' E - n i - T I N .
+' AI ' w E n t ' A n D @ ' r @U d ' { n d ' b E g d D @ ' E k s ' r EI ' m V - n i , D @ ' tS A r l s - t @ n ' h A s - p I - t @ l ' m EI d D @ ' l V N ' p I k - tS r= z , ' h i ' t U k D @ ' k EI s ' { f - t r= D @ ' p I k - tS r= z w r= ' m EI d .
+' { n d ' t u ' O r ' T r i ' d A - k t r= z ' s E d D @ ' s EI m ' T I N .
+D @ ' j V N - g @ s t ' b OI ' d I d ' n A t ' g E t ' t u ' g @U ' d aU n ' D E r ' w I D ' m i , ' h i ' l EI ' { n d ' s E d , " ' m V - D r= , ' w E n ' AI ' d AI , " ' AI ' w A n t ' j u ' t u ' h { v ' D E m ' @U - p @ n ' m i ' V p ' { n d " ' s i ' I f ' D { t ' d V s t ' k I l d ' m i .
+" ' t r AI ' t u ' g E t ' k A m - p @ n - s EI - S @ n , " ' j u ' w I l ' n A t ' h { v ' E - n i ' w EI ' V v ' m EI - k I N ' j O r ' l I - v I N " ' w E n ' w i ' A r ' g O n , " ' { n d D @ ' r E s t ' A r ' g @U - I N ' t u . "
+' AI ' h { v ' g EI n d ' m { s - t r= - i ' @U - v r= ' m AI ' h A r t ' AI ' h { v ' g EI n d ' m { s - t r= - i ' @U - v r= ' m AI ' t u ' h { n d z ' AI ' h { v ' g EI n d ' m { s - t r= - i ' @U - v r= D @ ' w O - t r= z ' AI ' h { v ' g EI n d ' m { s - t r= - i ' @U - v r= D @ ' r I - v r= .
+D @ ' k EI s ' V v ' m AI ' s V n ' w A z D @ ' f r= s t ' V v D @ ' l AI n ' V v ' l O - s u t s .
+' D EI ' s E n t D @ ' l O - j r= z ' d aU n ' { n d D @ ' d A - k t r= z ' d aU n ; ' D EI ' k l @U z d D @ I - ' l E k - t r I k ' s A - k @ t s ' I n D @ ' k { m p s .
+' D E r ' w A z ' S r= - l i , ' { n d ' s i - s @ l , ' dZ E f - r i ' { n d ' O - r @ n , ' r EI - m @ n d ' dZ A n - s @ n , ' k l E v ' { n d ' O s - k r= ' { n - d r= z , ' f r { N k ' l I n tS , ' h E n - r i ' p { l f , ' m I s - t r= ' p I tS , @ ' f O - r m @ n ; @ ' s l I m ' f E - l @U ' h u ' k { - r i d s - ' t i l ' w I D ' m AI ' b OI z , ' h I z ' n EI m ' w A z d A - ' r n E l , ' AI b I - ' l i v .
+' D E r w r= ' m E - n i ' V - D r= z , D @ ' t aU n z ' V v ' g l E n ' f E - r I s , ' { - l OI , ' w E r D @ ' w AI t ' r A k ' l AI z , ' s I k s ' m AI l z @ - ' w EI ; ' v { - n E - t @ , ' g O - l i ' b r I dZ , ' g { - m @U - k @ , ' l A - k w U d , D @ ' g V - l i z , D @ ' h @U l ' v { - l i ' I z ' w I t - n @ s .
+' AI ' h I tS - h AI k EI - ' t i n ' m AI l z , ' D EI ' m EI k ' tS E k s ' aU t .
+' D EI ' { s k t ' m i ' h aU ' AI ' k i p D @ ' k aU ' A n $ .
+' AI ' s E d ' w V n ' w i k , ' f i d ' f O r D @ ' k aU , ' w V n ' w i k , D @ ' tS I l - d r @ n z ' f l aU - r= .
+D @ ' @U l - d @ s t ' s V n ' w A z ' t w E n - t i ' T r i .
+D @ ' n E k s t ' s V n ' w A z ' t w E n - t i ' w V n .
+D @ ' j V N - g @ s t ' s V n ' w A z EI - ' t i n .
+' D EI ' k O l d ' I t n u - ' m @U - n j @ ' { t ' f r= s t .
+' D EI ' w U d p r @ - ' n aU n s ' I t ' f i - v r= .
+' S r= - l i ' { s k t ' D { t ' w i ' t r AI ' t u ' f AI n d ' aU t .
+' D { t z ' h aU ' D EI ' l r= n d ' w V t D @ ' t r V - b @ l ' w A z .
+' AI ' @U - p @ n ' aU t @ ' w EI , ' D EI ' h { v ' k V - v r= d ' m AI s - ' k AI ' w I D ' k r I s - t @ l ' AI ' k V m ' f O r T ' b AI ' d EI , ' AI ' { m ' b O r n @ ' s E - k @ n d ' t AI m , ' AI ' f O r s @ ' w EI ' T r u , ' { n d ' AI ' n @U D @ ' g EI t ' AI ' S { l ' dZ r= - n i ' @U - v r= D @ ' r= T @ - ' m V N D @ ' l I - v I N .
+' h i ' S { l ' n A t ' b i d I - ' m I - n I S t , ' n E - v r= ; ' AI ' S { l ' g I v @ ' m aU D ' t u ' m AI ' s V n .

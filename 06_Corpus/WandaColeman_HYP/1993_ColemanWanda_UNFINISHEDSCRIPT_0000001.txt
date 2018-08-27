@@ -1,0 +1,11 @@
+maneuver abstraction golf_stroke psychological_feature motion stroke act action event change
+appellation abstraction name title language_unit part relation
+cognition abstraction psychological_feature
+
+physical_entity eubacteria microorganism living_thing organism object moneran whole bacteria
+physical_entity eubacteria microorganism living_thing organism object moneran whole bacteria
+physical_entity region object location area
+physical_entity eubacteria microorganism living_thing organism object moneran whole bacteria
+physical_entity living_thing whole object person causal_agent organism
+
+attribute state abstraction psychological_state condition

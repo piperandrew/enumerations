@@ -1,0 +1,4 @@
+physical_entity juvenile living_thing whole object person causal_agent organism
+physical_entity mechanical_device object artifact mechanism device whole instrumentality
+
+

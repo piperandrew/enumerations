@@ -1,0 +1,5 @@
+building physical_entity object artifact whole structure
+physical_entity region object location
+time_period fundamental_quantity abstraction time_of_life measure
+
+

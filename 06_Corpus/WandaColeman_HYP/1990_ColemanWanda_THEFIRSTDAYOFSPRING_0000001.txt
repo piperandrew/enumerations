@@ -1,0 +1,5 @@
+
+
+abstraction group people
+physical_entity thing body_part joint part synovial_joint hinge_joint
+

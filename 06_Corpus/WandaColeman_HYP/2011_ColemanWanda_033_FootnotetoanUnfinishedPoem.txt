@@ -1,0 +1,2 @@
+
+physical_entity object whole natural_object rock

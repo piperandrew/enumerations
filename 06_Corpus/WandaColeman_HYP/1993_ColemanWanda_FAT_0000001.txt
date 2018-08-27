@@ -1,0 +1,6 @@
+
+physical_entity politician living_thing whole socialist object person causal_agent organism leader
+
+
+attribute property abstraction
+

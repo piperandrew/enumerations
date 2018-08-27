@@ -1,0 +1,1 @@
+Lehrer.1  Bedenk', o Kind! woher sind diese Gaben?2  Du kannst nichts von dir selber haben.Kind.3  Ei! alles hab' ich vom Papa.Lehrer.4  Und der, woher hat's der?Kind.4                                        Vom Großpapa.Lehrer.5  Nicht doch! Woher hat's denn der Großpapa bekommen?Kind.6  Der hat's genommen.

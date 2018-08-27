@@ -1,0 +1,6 @@
+physical_entity fat-soluble_vitamin substance food antioxidant nutriment vitamin matter inhibitor
+physical_entity living_thing whole object person adult causal_agent professional organism
+inhumaneness attribute abstraction quality
+
+abstraction color attribute visual_property achromatic_color property
+

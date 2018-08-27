@@ -1,0 +1,4 @@
+
+tennis_stroke abstraction return maneuver psychological_feature motion stroke act action event change
+physical_entity living_thing parent whole object genitor relative person progenitor causal_agent ancestor organism
+digit abstraction definite_quantity number measure integer
