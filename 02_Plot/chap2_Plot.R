@@ -34,7 +34,7 @@ corpus.scaled<-corpus1.sparse.matrix/scaling1
 corpus.dist<-dist(corpus.scaled, method = "Euclidean")
 
 ### Fig. 2.1 ###
-#artifically set clusters around pre- and post-conversion books
+#artificially set clusters around pre- and post-conversion books
 cluster.no<-c(1,2,2,2,2,1,1,1,1,1,1,1,2)
 clusplot(corpus.dist, clus=cluster.no, axes=FALSE,diss=TRUE, xlab="",ylab="", labels=3, lines = 0, main="", span=TRUE, color=FALSE, sub=NULL, add=FALSE, col.clus="black", col.p="black", font.main=1, lty=c(1,2), cex=0)
 title(main="Fig. 2.1 Semantic relationships between the thirteen\nbooks of Augustine's Confessions", sub="Source: Andrew Piper, Enumerations:\nData and Literary Study (2018)")
