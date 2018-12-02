@@ -22,7 +22,7 @@ corpus1.dtm<-DocumentTermMatrix(corpus1, control=list(wordLengths=c(1,Inf)))
 corpus1.matrix<-as.matrix(corpus1.dtm, stringsAsFactors=F)
 scaling1<-rowSums(corpus1.matrix)
 #remove Latin stopwords
-words<-c("a", "ab", "ac", "ad ", "adhic ", "aliqui ", "aliquis ", "an", "ante", "apud", "at", "atque", "aut", "autem", "cum", "cur", "de", "deinde", "dum", "ego", "enim", "ergo", "es", "est", "et", "etiam", "etsi", "ex", "fio", "haud", "hic", "iam", "idem", "igitur", "ille", "in", "infra", "inter", "interim", "ipse", "is", "ita", "magis", "modo", "mox", "nam", "ne", "nec", "necque", "neque", "nisi", "non", "nos", "o", "ob", "per", "possum", "post", "pro", "quae", "quam", "quare", "qui", "quia", "quicumque", "quidem", "quilibet", "quis", "quisnam", "quisquam", "quisque", "quisquis", "quo", "quoniam", "sed", "si", "sic", "sive", "sub", "sui", "sum", "super", "suus", "tam", "tamen", "trans", "tu", "tum", "ubi", "uel", "uero")
+words<-c("a", "ab", "ac", "ad", "adhic", "aliqui", "aliquis", "an", "ante", "apud", "at", "atque", "aut", "autem", "cum", "cur", "de", "deinde", "dum", "ego", "enim", "ergo", "es", "est", "et", "etiam", "etsi", "ex", "fio", "haud", "hic", "iam", "idem", "igitur", "ille", "in", "infra", "inter", "interim", "ipse", "is", "ita", "magis", "modo", "mox", "nam", "ne", "nec", "necque", "neque", "nisi", "non", "nos", "o", "ob", "per", "possum", "post", "pro", "quae", "quam", "quare", "qui", "quia", "quicumque", "quidem", "quilibet", "quis", "quisnam", "quisquam", "quisque", "quisquis", "quo", "quoniam", "sed", "si", "sic", "sive", "sub", "sui", "sum", "super", "suus", "tam", "tamen", "trans", "tu", "tum", "ubi", "uel", "uero")
 corpus1 <- tm_map(corpus1, removeWords, words)
 corpus1.dtm<-DocumentTermMatrix(corpus1, control=list(wordLengths=c(1,Inf)))
 #remove sparse terms
@@ -34,7 +34,7 @@ corpus.scaled<-corpus1.sparse.matrix/scaling1
 corpus.dist<-dist(corpus.scaled, method = "Euclidean")
 
 ### Fig. 2.1 ###
-#artifically set clusters around pre- and post-conversion books
+#artificially set clusters around pre- and post-conversion books
 cluster.no<-c(1,2,2,2,2,1,1,1,1,1,1,1,2)
 clusplot(corpus.dist, clus=cluster.no, axes=FALSE,diss=TRUE, xlab="",ylab="", labels=3, lines = 0, main="", span=TRUE, color=FALSE, sub=NULL, add=FALSE, col.clus="black", col.p="black", font.main=1, lty=c(1,2), cex=0)
 title(main="Fig. 2.1 Semantic relationships between the thirteen\nbooks of Augustine's Confessions", sub="Source: Andrew Piper, Enumerations:\nData and Literary Study (2018)")
